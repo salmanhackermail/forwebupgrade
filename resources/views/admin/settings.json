@@ -1,0 +1,553 @@
+{
+    "main_demo_hero": {
+        "builder": true,
+        "name": "Hero Section - (Main Demo)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "small_description": "text",
+            "left_button_text": "text",
+            "left_button_url": "url",
+            "right_button_text": "text",
+            "right_button_url": "url",
+            "images": {
+                "hero_image": {
+                    "size": "516x578"
+                }
+            }
+        }
+    },
+    "key_feature": {
+        "builder": true,
+        "name": "Key Feature - (Main Demo/IT Consulting)",
+        "content": {
+            "title": "text",
+            "heading_1": "text",
+            "description_1": "text",
+            "service_url_1": "url",
+            "heading_2": "text",
+            "description_2": "text",
+            "service_url_2": "url",
+            "heading_3": "text",
+            "description_3": "text",
+            "service_url_3": "url",
+            "images": {
+                "image1": {
+                    "size": "49x49"
+                },
+                "image2": {
+                    "size": "49x49"
+                },
+                "image3": {
+                    "size": "49x49"
+                }
+            }
+        }
+    },
+    "main_demo_about_us": {
+        "builder": true,
+        "name": "About Us Section - (Main Demo/IT Consulting/Tech Agency)",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text",
+            "description": "text",
+            "button_text": "text",
+            "button_link": "text",
+            "left_text": "text",
+            "left_counter": "number",
+            "right_text": "text",
+            "right_counter": "number",
+            "images": {
+                "image_1": {
+                    "size": "474x485"
+                },
+                "image_2": {
+                    "size": "303x341"
+                }
+            }
+        }
+    },
+    "main_demo_service_section": {
+        "builder": true,
+        "name": "Service Section - (Main Demo/IT Consulting/Digital Agency/Software Company/Startup/Tech Agency/Tech Company)",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "main_demo_service_highlight": {
+        "builder": true,
+        "name": "Service Highlight Section - (Main Demo)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "about_1": "text",
+            "percentage_1": "text",
+            "about_2": "text",
+            "percentage_2": "text",
+            "about_3": "text",
+            "percentage_3": "text"
+        }
+    },
+    "main_demo_cta_section": {
+        "builder": true,
+        "name": "CTA Section - (Main Demo/Digital Agency/Tech Agency)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "button_link": "text",
+            "button_text": "text"
+        }
+    },
+    "main_demo_sidebar_cta_section": {
+        "builder": true,
+        "name": "Sidebar CTA Section - (Main Demo)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "button_link": "text",
+            "button_text": "text"
+        }
+    },
+    "main_demo_process_section": {
+        "builder": true,
+        "name": "Process Section - (Main Demo/IT Solutions/IT Consulting)",
+        "content": {
+            "heading": "text",
+            "step_1": "text",
+            "step_2": "text",
+            "step_3": "text",
+            "description_1": "text",
+            "description_2": "text",
+            "description_3": "text",
+            "images": {
+                "image_1": {
+                    "size": "250x220"
+                },
+                "image_2": {
+                    "size": "250x220"
+                },
+                "image_3": {
+                    "size": "250x220"
+                }
+            }
+        }
+    },
+    "main_demo_service_success_section": {
+        "builder": true,
+        "name": "Service Success Section - (Main Demo/Digital Agency)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "service_name_1": "text",
+            "service_percentage_1": "number",
+            "service_name_2": "text",
+            "service_percentage_2": "number",
+            "service_name_3": "text",
+            "service_percentage_3": "number",
+            "images": {
+                "image_1": {
+                    "size": "489x499"
+                },
+                "image_2": {
+                    "size": "337x347"
+                }
+            }
+        }
+    },
+    "main_demo_testimonial_section": {
+        "builder": true,
+        "name": "Testimonial Section - (Main Demo)",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "main_demo_blog_section": {
+        "builder": true,
+        "name": "Blog Section - (Main Demo/IT Solutions/Digital Agency/Software Co/ Startup Home)",
+        "content": {
+            "heading": "text",
+            "button_text": "text"
+        }
+    },
+    "expert_feature_section": {
+        "builder": true,
+        "name": "Expert Section - (Main Demo/Startup Home/Tech Company)",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "it_consulting_hero_section": {
+        "builder": true,
+        "name": "Hero Section - (IT Consulting)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "left_button_text": "text",
+            "form_title": "text",
+            "form_description": "text",
+            "form_button_text": "text",
+            "images": {
+                "hero_image": {
+                    "size": "1600x1600"
+                }
+            }
+        }
+    },
+    "it_consulting_counter_section": {
+        "builder": true,
+        "name": "Counter Section - (IT Solutions/IT Consulting)",
+        "content": {
+            "counter_1": "number",
+            "title_1": "text",
+            "counter_2": "number",
+            "title_2": "text",
+            "counter_3": "number",
+            "title_3": "text",
+            "counter_4": "number",
+            "title_4": "text",
+            "images": {
+                "image_1": {
+                    "size": "36x36"
+                },
+                "image_2": {
+                    "size": "36x36"
+                },
+                "image_3": {
+                    "size": "36x36"
+                },
+                "image_4": {
+                    "size": "36x36"
+                }
+            }
+        }
+    },
+    "about_us_counter_section": {
+        "builder": true,
+        "name": "Counter Section - (About Us)",
+        "content": {
+            "counter_1": "number",
+            "title_1": "text",
+            "counter_2": "number",
+            "title_2": "text",
+            "counter_3": "number",
+            "title_3": "text",
+            "counter_4": "number",
+            "title_4": "text",
+            "images": {
+                "image_1": {
+                    "size": "36x36"
+                },
+                "image_2": {
+                    "size": "36x36"
+                },
+                "image_3": {
+                    "size": "36x36"
+                },
+                "image_4": {
+                    "size": "36x36"
+                }
+            }
+        }
+    },
+    "it_solutions_hero_section": {
+        "builder": true,
+        "name": "Hero Section - (IT Solutions)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "button_text": "text",
+            "images": {
+                "hero_image": {
+                    "size": "1600x1600"
+                }
+            }
+        }
+    },
+    "it_solutions_about_us": {
+        "builder": true,
+        "name": "About Us Section - (IT Solutions/Software Company)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "feature_text_1": "text",
+            "feature_text_2": "text",
+            "feature_text_3": "text",
+            "button_text": "text",
+            "images": {
+                "image_1": {
+                    "size": "474x485"
+                },
+                "image_2": {
+                    "size": "303x341"
+                }
+            }
+        }
+    },
+    "contact_form_section": {
+        "builder": true,
+        "name": "Contact Form Section - (Main Demo/IT Solutions)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "button_text": "text"
+        }
+    },
+    "contact_info_section": {
+        "builder": true,
+        "name": "Contact Info Section - (IT Solutions)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "office_hours": "text"
+        }
+    },
+    "it_solutions_pricing_section": {
+        "builder": true,
+        "name": "Pricing Section - (IT Solutions/Digital Agency/Startup Home)",
+        "content": {
+            "heading": "text",
+            "package_information": {
+                "package_1": {
+                    "title": "text",
+                    "description": "text",
+                    "price": "text",
+                    "features": {
+                        "feature_1": "text",
+                        "feature_2": "text",
+                        "feature_3": "text",
+                        "feature_4": "text",
+                        "feature_5": "text",
+                        "feature_6": "text"
+                    }
+                },
+                "package_2": {
+                    "title": "text",
+                    "description": "text",
+                    "price": "text",
+                    "features": {
+                        "feature_1": "text",
+                        "feature_2": "text",
+                        "feature_3": "text",
+                        "feature_4": "text",
+                        "feature_5": "text",
+                        "feature_6": "text"
+                    }
+                },
+                "package_3": {
+                    "title": "text",
+                    "description": "text",
+                    "price": "text",
+                    "features": {
+                        "feature_1": "text",
+                        "feature_2": "text",
+                        "feature_3": "text",
+                        "feature_4": "text",
+                        "feature_5": "text",
+                        "feature_6": "text"
+                    }
+                }
+            }
+        }
+    },
+    "digital_agency_hero_section": {
+        "builder": true,
+        "name": "Hero Section - (Digital Agency)",
+        "content": {
+            "heading": "text",
+            "title": "text",
+            "description": "text",
+            "left_button_text": "text",
+            "right_button_text": "text",
+            "images": {
+                "hero_image": {
+                    "size": "1600x1600"
+                }
+            }
+        }
+    },
+    "customer_brand_section": {
+        "builder": true,
+        "name": "Customer Brand Section - (Digital Agency)",
+        "content": {
+            "heading": "text",
+            "images": {
+                "image_1": {
+                    "size": "200x100"
+                },
+                "image_2": {
+                    "size": "200x100"
+                },
+                "image_3": {
+                    "size": "200x100"
+                },
+                "image_4": {
+                    "size": "200x100"
+                },
+                "image_5": {
+                    "size": "200x100"
+                },
+                "image_6": {
+                    "size": "200x100"
+                },
+                "image_7": {
+                    "size": "200x100"
+                }
+            }
+        }
+    },
+    "digital_agency_feature_section": {
+        "builder": true,
+        "name": "Feature Section - (Digital Agency)",
+        "content": {
+            "heading": "text",
+            "feature_1_heading": "text",
+            "feature_2_heading": "text",
+            "feature_3_heading": "text",
+            "feature_1_url": "text",
+            "feature_2_url": "text",
+            "feature_3_url": "text",
+            "feature_description_1": "text",
+            "feature_description_2": "text",
+            "feature_description_3": "text",
+            "images": {
+                "image_1": {
+                    "size": "490x520"
+                },
+                "image_2": {
+                    "size": "345x347"
+                },
+                "image_3": {
+                    "size": "49x49"
+                },
+                "image_4": {
+                    "size": "49x49"
+                },
+                "image_5": {
+                    "size": "49x49"
+                }
+            }
+        }
+    },
+    "digital_agency_faqs": {
+        "builder": true,
+        "name": "FAQ Section - (Digital Agency/Startup Home)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "button_text": "text"
+        }
+    },
+    "startup_home_hero_section": {
+        "builder": true,
+        "name": "Hero Section - (Startup Home)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "small_description": "text",
+            "left_button_text": "text",
+            "left_button_url": "url",
+            "right_button_text": "text",
+            "right_button_url": "url",
+            "images": {
+                "hero_image": {
+                    "size": "516x578"
+                }
+            }
+        }
+    },
+    "startup_home_about_us": {
+        "builder": true,
+        "name": "About Us Section - (Startup Home)",
+        "content": {
+            "heading": "text",
+            "sub_heading": "text",
+            "description": "text",
+            "left_text": "text",
+            "right_text": "text",
+            "images": {
+                "image_1": {
+                    "size": "474x485"
+                },
+                "image_2": {
+                    "size": "303x341"
+                }
+            }
+        }
+    },
+    "tech_agency_hero_section": {
+        "builder": true,
+        "name": "Hero Section - (Tech Agency Hero Section)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "left_button_text": "text",
+            "left_button_url": "url",
+            "right_button_text": "text",
+            "right_button_url": "url",
+            "images": {
+                "hero_image": {
+                    "size": "1272x628"
+                }
+            }
+        }
+    },
+    "tech_agency_brand_section": {
+        "builder": true,
+        "name": "Brand Section - (Tech Agency)",
+        "content": {
+            "heading": "text",
+            "images": {
+                "image_1": {
+                    "size": "200x100"
+                },
+                "image_2": {
+                    "size": "200x100"
+                },
+                "image_3": {
+                    "size": "200x100"
+                },
+                "image_4": {
+                    "size": "200x100"
+                },
+                "image_5": {
+                    "size": "200x100"
+                },
+                "image_6": {
+                    "size": "200x100"
+                },
+                "image_7": {
+                    "size": "200x100"
+                }
+            }
+        }
+    },
+    "tech_company_hero_section": {
+        "builder": true,
+        "name": "Hero Section - (Tech Company)",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "left_button_text": "text",
+            "left_button_url": "url",
+            "right_button_text": "text",
+            "right_button_url": "url"
+        }
+    },
+    "faq_section": {
+        "builder": true,
+        "name": "FAQ Section ",
+        "content": {
+            "heading": "text",
+            "description": "text",
+            "button_text": "text"
+        }
+    },
+    "login_section": {
+        "builder": true,
+        "name": "LogIn Section",
+        "content": {
+            "heading": "text",
+            "description": "text"
+        }
+    }
+}
